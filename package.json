@@ -1,0 +1,15 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css":"tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "Habibov Ulug`bek",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
